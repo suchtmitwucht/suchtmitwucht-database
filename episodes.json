@@ -4,7 +4,7 @@
             "id":"smw-alkoholsucht",
             "title":"Sucht mit Wucht - Alkoholsucht",
             "icon":"https://images.pexels.com/photos/1028637/pexels-photo-1028637.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-            "desc":"Diese Woche tauchen Franz und Jakob in das Gebiet der Alkoholsucht ab.<br>Seien sie dabei, wenn Geheimnisse offenbaren oder die Beiden etwas neues lernen",
+            "desc":"Diese Woche tauchen Franz und Jakob in das Gebiet der Alkoholsucht ab.<br>Seien sie dabei, wenn die beiden neues über Alkoholsucht lernen. Natürlich mit faszinierenden Gästen",
             "team":[
                 {
                     "name": "Franz Juling",
@@ -28,6 +28,23 @@
                 }
             ],
             "src":[
+                {
+                    "name": "Blu App",
+                    "use":"Informationen",
+                    "category":"info",
+                    "artist":"Blaues Kreuz / bluprevent",
+                    "src":"https://bluprevent.de/angebote/die-bluapp/",
+                    "license":"https://bluprevent.de/impressum/"
+                },
+                {
+32
+                    "name": "Alkoholsucht",
+                    "use":"Informationen",
+                    "category":"info",
+                    "artist":"Schön Klinik",
+                    "src":"https://www.schoen-klinik.de/alkoholsucht",
+                    "license":"https://www.schoen-klinik.de/nutzungsbedingungen"
+                },
                 {
                     "name": "Cover Image",
                     "use":"Cover",
@@ -64,7 +81,7 @@
             "files": [
                 {
                     "name": "Podcast",
-                    "src":"https://dl.dropboxusercontent.com/s/5gewdsxm9jh4ook/SuchtMitWucht%20Export%201.wav",
+                    "src":"https://dl.dropbox.com/s/5gewdsxm9jh4ook/Alkoholsucht-V1.wav",
                     "main":true
                 }
             ],
