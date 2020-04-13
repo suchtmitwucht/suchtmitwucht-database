@@ -64,12 +64,8 @@
             "files": [
                 {
                     "name": "Podcast",
-                    "src":"https://freesound.org/people/Erokia/sounds/511487/",
+                    "src":"https://dl.dropboxusercontent.com/s/5gewdsxm9jh4ook/SuchtMitWucht%20Export%201.wav",
                     "main":true
-                },
-                {
-                    "name":"Outtakes",
-                    "src":""
                 }
             ],
             "release":[20,4,2020],
